@@ -333,6 +333,7 @@
 #u25_img.mouseOver {
 }
 #u25.mouseOver {
+  opacity:0.5;
 }
 #u26 {
   position:absolute;
@@ -358,6 +359,7 @@
 #u27_img.mouseOver {
 }
 #u27.mouseOver {
+  opacity:0.5;
 }
 #u28 {
   position:absolute;
@@ -560,6 +562,11 @@
   width:150px;
   height:30px;
 }
+#u42_img.mouseOver {
+}
+#u42.mouseOver {
+  opacity:0.5;
+}
 #u43 {
   position:absolute;
   left:2px;
@@ -726,6 +733,7 @@
 #u55_img.mouseOver {
 }
 #u55.mouseOver {
+  opacity:0.5;
 }
 #u56 {
   position:absolute;
@@ -751,6 +759,7 @@
 #u57_img.mouseOver {
 }
 #u57.mouseOver {
+  opacity:0.5;
 }
 #u58 {
   position:absolute;

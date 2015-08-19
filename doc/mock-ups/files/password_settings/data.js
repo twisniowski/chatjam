@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"password_settings.html",
-  "generationDate":new Date(1439561684895.8),
+  "generationDate":new Date(1439978133580.19),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -399,39 +399,6 @@
           "tabbable":true,
           "images":{
             "normal~":"images/settings/u18.png"}},
-{
-          "id":"3489794c1a444576a3aea0bab40f55d6",
-          "label":"",
-          "type":"buttonShape",
-          "styleType":"buttonShape",
-          "visible":true,
-          "style":{
-            "location":{
-              "x":13,
-              "y":464},
-            "size":{
-              "width":267,
-              "height":36}},
-          "adaptiveStyles":{
-},
-          "objects":[{
-              "id":"cf3c91fc185149d58699cf488b79e6d6",
-              "label":"",
-              "isContained":true,
-              "type":"richTextPanel",
-              "styleType":"paragraph",
-              "visible":true,
-              "style":{
-                "location":{
-                  "x":13,
-                  "y":464},
-                "size":{
-                  "width":267,
-                  "height":36}},
-              "adaptiveStyles":{
-}}],
-          "images":{
-            "normal~":"images/chatjam/u16.png"}},
 {
           "id":"3dfb926e5fe340428cba47238aaa186e",
           "label":"",
@@ -834,39 +801,35 @@
       "scriptId":"u18"},
     "65a145332e89475db1f7dafc67454962":{
       "scriptId":"u19"},
-    "3489794c1a444576a3aea0bab40f55d6":{
-      "scriptId":"u20"},
-    "cf3c91fc185149d58699cf488b79e6d6":{
-      "scriptId":"u21"},
     "3dfb926e5fe340428cba47238aaa186e":{
-      "scriptId":"u22"},
+      "scriptId":"u20"},
     "fd5c9dea6621459e9b44e69276817a86":{
-      "scriptId":"u23"},
+      "scriptId":"u21"},
     "a27274f3e46f4748b777ba87422c3ab8":{
-      "scriptId":"u24"},
+      "scriptId":"u22"},
     "3acff19332714b17a98b66e4e3d51689":{
-      "scriptId":"u25"},
+      "scriptId":"u23"},
     "fe2da9d8b6e44373932a5c1084dfb982":{
-      "scriptId":"u26"},
+      "scriptId":"u24"},
     "4b050befe2ff43d8a0cccef853810b17":{
-      "scriptId":"u27"},
+      "scriptId":"u25"},
     "f3fe94b0897f4307b517979dc4b8f83e":{
-      "scriptId":"u28"},
+      "scriptId":"u26"},
     "04f6874835c7453da94b3ba94c7b7462":{
-      "scriptId":"u29"},
+      "scriptId":"u27"},
     "d0df5b5921934924a6fb10860e3c9da4":{
-      "scriptId":"u30"},
+      "scriptId":"u28"},
     "8bb3c97e00dd49949296610725ac2785":{
-      "scriptId":"u31"},
+      "scriptId":"u29"},
     "ee147623cd5a4ae29a81a3f77e942651":{
-      "scriptId":"u32"},
+      "scriptId":"u30"},
     "335ec25412574f5cba9762adc910e9f7":{
-      "scriptId":"u33"},
+      "scriptId":"u31"},
     "53641cb398ef47b3a75f0cc0e7db5dc8":{
-      "scriptId":"u34"},
+      "scriptId":"u32"},
     "d60b2b2430cf45d68ebd6396b6e18693":{
-      "scriptId":"u35"},
+      "scriptId":"u33"},
     "d13d7a89ea5848e6ae208b9b50e645eb":{
-      "scriptId":"u36"},
+      "scriptId":"u34"},
     "7371a0edc35a4ddea69d935fe1a257e6":{
-      "scriptId":"u37"}}});
+      "scriptId":"u35"}}});

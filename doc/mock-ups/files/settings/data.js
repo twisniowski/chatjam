@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"settings.html",
-  "generationDate":new Date(1439561684624.78),
+  "generationDate":new Date(1439978133423.18),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -400,39 +400,6 @@
           "images":{
             "normal~":"images/settings/u18.png"}},
 {
-          "id":"008fea5cf81a4641841399ae42632495",
-          "label":"",
-          "type":"buttonShape",
-          "styleType":"buttonShape",
-          "visible":true,
-          "style":{
-            "location":{
-              "x":13,
-              "y":464},
-            "size":{
-              "width":267,
-              "height":36}},
-          "adaptiveStyles":{
-},
-          "objects":[{
-              "id":"874029fc45144b85baead4f3da07c910",
-              "label":"",
-              "isContained":true,
-              "type":"richTextPanel",
-              "styleType":"paragraph",
-              "visible":true,
-              "style":{
-                "location":{
-                  "x":13,
-                  "y":464},
-                "size":{
-                  "width":267,
-                  "height":36}},
-              "adaptiveStyles":{
-}}],
-          "images":{
-            "normal~":"images/chatjam/u16.png"}},
-{
           "id":"be583b235bf34cda9a93603c4e90a565",
           "label":"",
           "type":"buttonShape",
@@ -464,7 +431,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/settings/u22.png"}},
+            "normal~":"images/settings/u20.png"}},
 {
           "id":"a80738f621e1497a99f26f0f8bd44711",
           "label":"",
@@ -497,7 +464,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/settings/u24.png"}},
+            "normal~":"images/settings/u22.png"}},
 {
           "id":"0a5690f252b5477c95e63e8077bed874",
           "label":"",
@@ -577,7 +544,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/settings/u28.png"}},
+            "normal~":"images/settings/u26.png"}},
 {
           "id":"e8b21d04d5a144b7830cfaa11e2496e9",
           "label":"",
@@ -633,7 +600,7 @@
                       "linkType":"current"}]}]}},
           "tabbable":true,
           "images":{
-            "normal~":"images/settings/u28.png"}},
+            "normal~":"images/settings/u26.png"}},
 {
           "id":"ed4f59db505741c588ec2616fc879a6c",
           "label":"",
@@ -689,7 +656,7 @@
                       "linkType":"current"}]}]}},
           "tabbable":true,
           "images":{
-            "normal~":"images/settings/u28.png"}},
+            "normal~":"images/settings/u26.png"}},
 {
           "id":"3014bed9ba984ce09829f7b8c1e8aaa7",
           "label":"",
@@ -722,7 +689,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/settings/u34.png"}},
+            "normal~":"images/settings/u32.png"}},
 {
           "id":"0bffc8b64a244da5a2c0e2b2b728cfea",
           "label":"",
@@ -980,7 +947,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/settings/u50.png"}},
+            "normal~":"images/settings/u48.png"}},
 {
           "id":"12f38551ba074584985fff36ae6a1f87",
           "label":"",
@@ -1186,40 +1153,1554 @@
           "images":{
             "normal~":"resources/images/transparent.gif"}},
 {
-          "id":"a0f613dc48bd435d94540970ea591683",
+          "id":"86bd35a1c10649a5bfa68409ec0389a4",
           "label":"",
-          "type":"imageBox",
-          "styleType":"imageBox",
+          "type":"referenceDiagramObject",
+          "styleType":"referenceDiagramObject",
           "visible":true,
           "style":{
-            "location":{
-              "x":244,
-              "y":465},
-            "size":{
-              "width":36,
-              "height":36}},
+},
           "adaptiveStyles":{
 },
-          "objects":[{
-              "id":"dbc39981b3af4348b38443b82de59596",
-              "label":"",
-              "isContained":true,
-              "type":"richTextPanel",
-              "styleType":"paragraph",
-              "visible":true,
-              "style":{
-                "location":{
-                  "x":244,
-                  "y":465},
-                "size":{
-                  "width":36,
-                  "height":36}},
-              "adaptiveStyles":{
-}}],
-          "images":{
-            "normal~":"images/settings/u64.png"}}]}},
+          "masterId":"841332f50c544c738ddfc47f0923d555"}]}},
   "masters":{
+    "841332f50c544c738ddfc47f0923d555":{
+      "packageId":"841332f50c544c738ddfc47f0923d555",
+      "type":"Axure:Master",
+      "name":"bot_panel",
+      "notes":{
 },
+      "style":{
+        "baseStyle":"627587b6038d43cca051c114ac41ad32",
+        "pageAlignment":"near",
+        "fill":{
+          "fillType":"solid",
+          "color":0xFFFFFFFF},
+        "image":null,
+        "imageHorizontalAlignment":"near",
+        "imageVerticalAlignment":"near",
+        "imageRepeat":"auto",
+        "favicon":null,
+        "sketchFactor":"0",
+        "colorStyle":"appliedColor",
+        "fontName":"Applied Font",
+        "borderWidth":"0"},
+      "adaptiveStyles":{
+},
+      "interactionMap":{
+},
+      "diagram":{
+        "objects":[{
+            "id":"d13ae077b4804a22bedc6e5ae62167b3",
+            "label":"back",
+            "type":"buttonShape",
+            "styleType":"buttonShape",
+            "visible":true,
+            "style":{
+              "location":{
+                "x":13,
+                "y":463},
+              "size":{
+                "width":267,
+                "height":36}},
+            "adaptiveStyles":{
+},
+            "objects":[{
+                "id":"c46a18b2a3bb422fb6c8aa354964140d",
+                "label":"",
+                "isContained":true,
+                "type":"richTextPanel",
+                "styleType":"paragraph",
+                "visible":true,
+                "style":{
+                  "location":{
+                    "x":13,
+                    "y":463},
+                  "size":{
+                    "width":267,
+                    "height":36}},
+                "adaptiveStyles":{
+}}],
+            "images":{
+              "normal~":"images/chatjam/u16.png"}},
+{
+            "id":"60276436ada24bb19c784bdc05f3b4ba",
+            "label":"icon4",
+            "type":"imageBox",
+            "styleType":"imageBox",
+            "visible":true,
+            "style":{
+              "stateStyles":{
+                "mouseOver":{
+                  "opacity":"0.5"}},
+              "location":{
+                "x":186,
+                "y":463},
+              "size":{
+                "width":36,
+                "height":36}},
+            "adaptiveStyles":{
+},
+            "objects":[{
+                "id":"16784c6df8214c9d94ba05c3c16d5ab7",
+                "label":"",
+                "isContained":true,
+                "type":"richTextPanel",
+                "styleType":"paragraph",
+                "visible":true,
+                "style":{
+                  "stateStyles":{
+                    "mouseOver":{
+                      "opacity":"0.5"}},
+                  "location":{
+                    "x":186,
+                    "y":463},
+                  "size":{
+                    "width":36,
+                    "height":36}},
+                "adaptiveStyles":{
+}}],
+            "interactionMap":{
+              "onClick":{
+                "description":"OnClick",
+                "cases":[{
+                    "description":"Case 1",
+                    "isNewIfGroup":false,
+                    "actions":[{
+                        "action":"linkWindow",
+                        "description":"Open More games in Current Window",
+                        "target":{
+                          "targetType":"page",
+                          "url":"more_games.html",
+                          "includeVariables":true},
+                        "linkType":"current"}]}]}},
+            "tabbable":true,
+            "images":{
+              "normal~":"images/chatjam/icon4_u66.png",
+              "mouseOver~":"images/chatjam/icon4_u66.png"}},
+{
+            "id":"337699c9340942bdb2be25851653547e",
+            "label":"icon2",
+            "type":"imageBox",
+            "styleType":"imageBox",
+            "visible":true,
+            "style":{
+              "stateStyles":{
+                "mouseOver":{
+                  "opacity":"0.5"}},
+              "location":{
+                "x":71,
+                "y":463},
+              "size":{
+                "width":36,
+                "height":36}},
+            "adaptiveStyles":{
+},
+            "objects":[{
+                "id":"e3124db3d4f9401aa8e96da39f2df036",
+                "label":"",
+                "isContained":true,
+                "type":"richTextPanel",
+                "styleType":"paragraph",
+                "visible":true,
+                "style":{
+                  "stateStyles":{
+                    "mouseOver":{
+                      "opacity":"0.5"}},
+                  "location":{
+                    "x":71,
+                    "y":463},
+                  "size":{
+                    "width":36,
+                    "height":36}},
+                "adaptiveStyles":{
+}}],
+            "interactionMap":{
+              "onClick":{
+                "description":"OnClick",
+                "cases":[{
+                    "description":"Case 1",
+                    "isNewIfGroup":false,
+                    "actions":[{
+                        "action":"linkWindow",
+                        "description":"Open Friends List in Current Window",
+                        "target":{
+                          "targetType":"page",
+                          "url":"friends_list.html",
+                          "includeVariables":true},
+                        "linkType":"current"}]}]}},
+            "tabbable":true,
+            "images":{
+              "normal~":"images/chatjam/icon2_u68.png",
+              "mouseOver~":"images/chatjam/icon2_u68.png"}},
+{
+            "id":"593c57dabe204a95ac29307cb2550473",
+            "label":"icon1",
+            "type":"imageBox",
+            "styleType":"imageBox",
+            "visible":true,
+            "style":{
+              "stateStyles":{
+                "mouseOver":{
+                  "opacity":"0.5"}},
+              "location":{
+                "x":13,
+                "y":463},
+              "size":{
+                "width":36,
+                "height":36}},
+            "adaptiveStyles":{
+},
+            "objects":[{
+                "id":"c52d04a8040a46fdab8e427a9fd32efb",
+                "label":"",
+                "isContained":true,
+                "type":"richTextPanel",
+                "styleType":"paragraph",
+                "visible":true,
+                "style":{
+                  "stateStyles":{
+                    "mouseOver":{
+                      "opacity":"0.5"}},
+                  "location":{
+                    "x":13,
+                    "y":463},
+                  "size":{
+                    "width":36,
+                    "height":36}},
+                "adaptiveStyles":{
+}}],
+            "interactionMap":{
+              "onClick":{
+                "description":"OnClick",
+                "cases":[{
+                    "description":"Case 1",
+                    "isNewIfGroup":false,
+                    "actions":[{
+                        "action":"linkWindow",
+                        "description":"Open ChatJam in Current Window",
+                        "target":{
+                          "targetType":"page",
+                          "url":"chatjam.html",
+                          "includeVariables":true},
+                        "linkType":"current"}]}]}},
+            "tabbable":true,
+            "images":{
+              "normal~":"images/chatjam/icon1_u70.png",
+              "mouseOver~":"images/chatjam/icon1_u70.png"}},
+{
+            "id":"32647aab0efa4293a424fefe36128517",
+            "label":"icon5",
+            "type":"imageBox",
+            "styleType":"imageBox",
+            "visible":true,
+            "style":{
+              "stateStyles":{
+                "mouseOver":{
+                  "opacity":"0.5"}},
+              "location":{
+                "x":244,
+                "y":463},
+              "size":{
+                "width":36,
+                "height":36}},
+            "adaptiveStyles":{
+},
+            "objects":[{
+                "id":"5ee29d1e92204ad1b872e4ccc50ecbbb",
+                "label":"",
+                "isContained":true,
+                "type":"richTextPanel",
+                "styleType":"paragraph",
+                "visible":true,
+                "style":{
+                  "stateStyles":{
+                    "mouseOver":{
+                      "opacity":"0.5"}},
+                  "location":{
+                    "x":244,
+                    "y":463},
+                  "size":{
+                    "width":36,
+                    "height":36}},
+                "adaptiveStyles":{
+}}],
+            "interactionMap":{
+              "onClick":{
+                "description":"OnClick",
+                "cases":[{
+                    "description":"Case 1",
+                    "isNewIfGroup":false,
+                    "actions":[{
+                        "action":"fadeWidget",
+                        "description":"Toggle hamburger",
+                        "objectsToFades":[{
+                            "objectPath":["fa4345a918214fa5b0bac1a384ff7e8d"],
+                            "fadeInfo":{
+                              "fadeType":"toggle",
+                              "options":{
+                                "showType":"none"}}}]},
+{
+                        "action":"fadeWidget",
+                        "description":"Hide get_gamel,<br>sh_gamel,<br>sh_foto,<br>sh_copy,<br>sh_twitt,<br>sh_fb,<br>back_2,<br>back_1",
+                        "objectsToFades":[{
+                            "objectPath":["c26232203c204a97893ca8d35b78df95"],
+                            "fadeInfo":{
+                              "fadeType":"hide",
+                              "options":{
+                                "showType":"none"}}},
+{
+                            "objectPath":["e02c00d6314441d0bac9fa4af1d0fb60"],
+                            "fadeInfo":{
+                              "fadeType":"hide",
+                              "options":{
+                                "showType":"none"}}},
+{
+                            "objectPath":["510576c4d6e843bca7388b65af3c4511"],
+                            "fadeInfo":{
+                              "fadeType":"hide",
+                              "options":{
+                                "showType":"none"}}},
+{
+                            "objectPath":["6d851e32fda2467a82f0f9db92b7d5f7"],
+                            "fadeInfo":{
+                              "fadeType":"hide",
+                              "options":{
+                                "showType":"none"}}},
+{
+                            "objectPath":["545adefa83f14cdfa491a9b73c6fa135"],
+                            "fadeInfo":{
+                              "fadeType":"hide",
+                              "options":{
+                                "showType":"none"}}},
+{
+                            "objectPath":["850fbb42bec34cd88a47454972360c7e"],
+                            "fadeInfo":{
+                              "fadeType":"hide",
+                              "options":{
+                                "showType":"none"}}},
+{
+                            "objectPath":["675be1e0add140ec85d8eaf7e55e4b51"],
+                            "fadeInfo":{
+                              "fadeType":"hide",
+                              "options":{
+                                "showType":"none"}}},
+{
+                            "objectPath":["c0b53863421e47bc8aa51f905fe4ba71"],
+                            "fadeInfo":{
+                              "fadeType":"hide",
+                              "options":{
+                                "showType":"none"}}}]}]}]}},
+            "tabbable":true,
+            "images":{
+              "normal~":"images/chatjam/icon5_u72.png",
+              "mouseOver~":"images/chatjam/icon5_u72.png"}},
+{
+            "id":"7fa0dd4296d4416d9c9d220e0b54ff20",
+            "label":"icon3",
+            "type":"imageBox",
+            "styleType":"imageBox",
+            "visible":true,
+            "style":{
+              "stateStyles":{
+                "mouseOver":{
+                  "opacity":"0.5"}},
+              "location":{
+                "x":129,
+                "y":464},
+              "size":{
+                "width":36,
+                "height":34}},
+            "adaptiveStyles":{
+},
+            "objects":[{
+                "id":"ae66ef8dfca140f8b51e0d02a2012fbb",
+                "label":"",
+                "isContained":true,
+                "type":"richTextPanel",
+                "styleType":"paragraph",
+                "visible":true,
+                "style":{
+                  "stateStyles":{
+                    "mouseOver":{
+                      "opacity":"0.5"}},
+                  "location":{
+                    "x":129,
+                    "y":464},
+                  "size":{
+                    "width":36,
+                    "height":34}},
+                "adaptiveStyles":{
+}}],
+            "interactionMap":{
+              "onClick":{
+                "description":"OnClick",
+                "cases":[{
+                    "description":"Case 1",
+                    "isNewIfGroup":false,
+                    "actions":[{
+                        "action":"fadeWidget",
+                        "description":"Toggle sh_foto,<br>sh_gamel,<br>get_gamel,<br>back_2",
+                        "objectsToFades":[{
+                            "objectPath":["510576c4d6e843bca7388b65af3c4511"],
+                            "fadeInfo":{
+                              "fadeType":"toggle",
+                              "options":{
+                                "showType":"none"}}},
+{
+                            "objectPath":["e02c00d6314441d0bac9fa4af1d0fb60"],
+                            "fadeInfo":{
+                              "fadeType":"toggle",
+                              "options":{
+                                "showType":"none"}}},
+{
+                            "objectPath":["c26232203c204a97893ca8d35b78df95"],
+                            "fadeInfo":{
+                              "fadeType":"toggle",
+                              "options":{
+                                "showType":"none"}}},
+{
+                            "objectPath":["675be1e0add140ec85d8eaf7e55e4b51"],
+                            "fadeInfo":{
+                              "fadeType":"toggle",
+                              "options":{
+                                "showType":"none"}}}]},
+{
+                        "action":"fadeWidget",
+                        "description":"Hide hamburger,<br>sh_fb,<br>sh_twitt,<br>sh_copy,<br>back_1",
+                        "objectsToFades":[{
+                            "objectPath":["fa4345a918214fa5b0bac1a384ff7e8d"],
+                            "fadeInfo":{
+                              "fadeType":"hide",
+                              "options":{
+                                "showType":"none"}}},
+{
+                            "objectPath":["850fbb42bec34cd88a47454972360c7e"],
+                            "fadeInfo":{
+                              "fadeType":"hide",
+                              "options":{
+                                "showType":"none"}}},
+{
+                            "objectPath":["545adefa83f14cdfa491a9b73c6fa135"],
+                            "fadeInfo":{
+                              "fadeType":"hide",
+                              "options":{
+                                "showType":"none"}}},
+{
+                            "objectPath":["6d851e32fda2467a82f0f9db92b7d5f7"],
+                            "fadeInfo":{
+                              "fadeType":"hide",
+                              "options":{
+                                "showType":"none"}}},
+{
+                            "objectPath":["c0b53863421e47bc8aa51f905fe4ba71"],
+                            "fadeInfo":{
+                              "fadeType":"hide",
+                              "options":{
+                                "showType":"none"}}}]}]}]}},
+            "tabbable":true,
+            "images":{
+              "normal~":"images/chatjam/icon3_u74.png",
+              "mouseOver~":"images/chatjam/icon3_u74.png"}},
+{
+            "id":"675be1e0add140ec85d8eaf7e55e4b51",
+            "label":"back_2",
+            "type":"buttonShape",
+            "styleType":"buttonShape",
+            "visible":false,
+            "style":{
+              "opacity":"0.6",
+              "fill":{
+                "fillType":"solid",
+                "color":0xFFCCCCCC},
+              "location":{
+                "x":45,
+                "y":378},
+              "size":{
+                "width":204,
+                "height":86},
+              "visible":false,
+              "borderWidth":"-1"},
+            "adaptiveStyles":{
+},
+            "objects":[{
+                "id":"12cc168e058441adbf73fedc74bda431",
+                "label":"",
+                "isContained":true,
+                "type":"richTextPanel",
+                "styleType":"paragraph",
+                "visible":false,
+                "style":{
+                  "opacity":"0.6",
+                  "fill":{
+                    "fillType":"solid",
+                    "color":0xFFCCCCCC},
+                  "location":{
+                    "x":45,
+                    "y":378},
+                  "size":{
+                    "width":204,
+                    "height":86},
+                  "visible":false,
+                  "borderWidth":"-1"},
+                "adaptiveStyles":{
+}}],
+            "images":{
+              "normal~":"images/chatjam/back_2_u76.png"}},
+{
+            "id":"510576c4d6e843bca7388b65af3c4511",
+            "label":"sh_foto",
+            "type":"buttonShape",
+            "styleType":"buttonShape",
+            "visible":false,
+            "style":{
+              "location":{
+                "x":47,
+                "y":382},
+              "size":{
+                "width":200,
+                "height":25},
+              "visible":false,
+              "cornerRadiusTopLeft":"5"},
+            "adaptiveStyles":{
+},
+            "objects":[{
+                "id":"c2ed7618a24547df84dae9a7e462abaa",
+                "label":"",
+                "isContained":true,
+                "type":"richTextPanel",
+                "styleType":"paragraph",
+                "visible":false,
+                "style":{
+                  "location":{
+                    "x":47,
+                    "y":382},
+                  "size":{
+                    "width":200,
+                    "height":25},
+                  "visible":false,
+                  "cornerRadiusTopLeft":"5"},
+                "adaptiveStyles":{
+}}],
+            "interactionMap":{
+              "onClick":{
+                "description":"OnClick",
+                "cases":[{
+                    "description":"Case 1",
+                    "isNewIfGroup":false,
+                    "actions":[{
+                        "action":"linkWindow",
+                        "description":"Open PhotoVideo in Current Window",
+                        "target":{
+                          "targetType":"page",
+                          "url":"photovideo.html",
+                          "includeVariables":true},
+                        "linkType":"current"}]}]}},
+            "tabbable":true,
+            "images":{
+              "normal~":"images/chatjam/sh_foto_u78.png"}},
+{
+            "id":"e02c00d6314441d0bac9fa4af1d0fb60",
+            "label":"sh_gamel",
+            "type":"buttonShape",
+            "styleType":"buttonShape",
+            "visible":false,
+            "style":{
+              "location":{
+                "x":47,
+                "y":409},
+              "size":{
+                "width":200,
+                "height":25},
+              "visible":false,
+              "cornerRadiusTopLeft":"5"},
+            "adaptiveStyles":{
+},
+            "objects":[{
+                "id":"b58b287e29444320b68f6aa6fa54c2ed",
+                "label":"",
+                "isContained":true,
+                "type":"richTextPanel",
+                "styleType":"paragraph",
+                "visible":false,
+                "style":{
+                  "location":{
+                    "x":47,
+                    "y":409},
+                  "size":{
+                    "width":200,
+                    "height":25},
+                  "visible":false,
+                  "cornerRadiusTopLeft":"5"},
+                "adaptiveStyles":{
+}}],
+            "interactionMap":{
+              "onClick":{
+                "description":"OnClick",
+                "cases":[{
+                    "description":"Case 1",
+                    "isNewIfGroup":false,
+                    "actions":[{
+                        "action":"linkWindow",
+                        "description":"Open Share_link chat in Current Window",
+                        "target":{
+                          "targetType":"page",
+                          "url":"share_link_chat.html",
+                          "includeVariables":true},
+                        "linkType":"current"}]}]}},
+            "tabbable":true,
+            "images":{
+              "normal~":"images/chatjam/sh_foto_u78.png"}},
+{
+            "id":"c26232203c204a97893ca8d35b78df95",
+            "label":"get_gamel",
+            "type":"buttonShape",
+            "styleType":"buttonShape",
+            "visible":false,
+            "style":{
+              "location":{
+                "x":47,
+                "y":436},
+              "size":{
+                "width":200,
+                "height":25},
+              "visible":false,
+              "cornerRadiusTopLeft":"5"},
+            "adaptiveStyles":{
+},
+            "objects":[{
+                "id":"d06fab3b55804a09a7f7ec25ff66085b",
+                "label":"",
+                "isContained":true,
+                "type":"richTextPanel",
+                "styleType":"paragraph",
+                "visible":false,
+                "style":{
+                  "location":{
+                    "x":47,
+                    "y":436},
+                  "size":{
+                    "width":200,
+                    "height":25},
+                  "visible":false,
+                  "cornerRadiusTopLeft":"5"},
+                "adaptiveStyles":{
+}}],
+            "interactionMap":{
+              "onClick":{
+                "description":"OnClick",
+                "cases":[{
+                    "description":"Case 1",
+                    "isNewIfGroup":false,
+                    "actions":[{
+                        "action":"fadeWidget",
+                        "description":"Show sh_twitt,<br>sh_copy,<br>sh_fb,<br>back_1",
+                        "objectsToFades":[{
+                            "objectPath":["545adefa83f14cdfa491a9b73c6fa135"],
+                            "fadeInfo":{
+                              "fadeType":"show",
+                              "options":{
+                                "showType":"none"}}},
+{
+                            "objectPath":["6d851e32fda2467a82f0f9db92b7d5f7"],
+                            "fadeInfo":{
+                              "fadeType":"show",
+                              "options":{
+                                "showType":"none"}}},
+{
+                            "objectPath":["850fbb42bec34cd88a47454972360c7e"],
+                            "fadeInfo":{
+                              "fadeType":"show",
+                              "options":{
+                                "showType":"none"}}},
+{
+                            "objectPath":["c0b53863421e47bc8aa51f905fe4ba71"],
+                            "fadeInfo":{
+                              "fadeType":"show",
+                              "options":{
+                                "showType":"none"}}}]},
+{
+                        "action":"fadeWidget",
+                        "description":"Hide sh_foto,<br>back_2,<br>sh_gamel,<br>get_gamel",
+                        "objectsToFades":[{
+                            "objectPath":["510576c4d6e843bca7388b65af3c4511"],
+                            "fadeInfo":{
+                              "fadeType":"hide",
+                              "options":{
+                                "showType":"none"}}},
+{
+                            "objectPath":["675be1e0add140ec85d8eaf7e55e4b51"],
+                            "fadeInfo":{
+                              "fadeType":"hide",
+                              "options":{
+                                "showType":"none"}}},
+{
+                            "objectPath":["e02c00d6314441d0bac9fa4af1d0fb60"],
+                            "fadeInfo":{
+                              "fadeType":"hide",
+                              "options":{
+                                "showType":"none"}}},
+{
+                            "objectPath":["c26232203c204a97893ca8d35b78df95"],
+                            "fadeInfo":{
+                              "fadeType":"hide",
+                              "options":{
+                                "showType":"none"}}}]}]}]}},
+            "tabbable":true,
+            "images":{
+              "normal~":"images/chatjam/sh_foto_u78.png"}},
+{
+            "id":"c0b53863421e47bc8aa51f905fe4ba71",
+            "label":"back_1",
+            "type":"buttonShape",
+            "styleType":"buttonShape",
+            "visible":false,
+            "style":{
+              "opacity":"0.6",
+              "fill":{
+                "fillType":"solid",
+                "color":0xFFCCCCCC},
+              "location":{
+                "x":45,
+                "y":351},
+              "size":{
+                "width":204,
+                "height":112},
+              "visible":false,
+              "borderWidth":"-1"},
+            "adaptiveStyles":{
+},
+            "objects":[{
+                "id":"ea1dd650ca6f41ecb971a464beb3efa2",
+                "label":"",
+                "isContained":true,
+                "type":"richTextPanel",
+                "styleType":"paragraph",
+                "visible":false,
+                "style":{
+                  "opacity":"0.6",
+                  "fill":{
+                    "fillType":"solid",
+                    "color":0xFFCCCCCC},
+                  "location":{
+                    "x":45,
+                    "y":351},
+                  "size":{
+                    "width":204,
+                    "height":112},
+                  "visible":false,
+                  "borderWidth":"-1"},
+                "adaptiveStyles":{
+}}],
+            "images":{
+              "normal~":"images/chatjam/back_1_u84.png"}},
+{
+            "id":"850fbb42bec34cd88a47454972360c7e",
+            "label":"sh_fb",
+            "type":"buttonShape",
+            "styleType":"buttonShape",
+            "visible":false,
+            "style":{
+              "location":{
+                "x":47,
+                "y":353},
+              "size":{
+                "width":200,
+                "height":30},
+              "visible":false,
+              "cornerRadiusTopLeft":"5"},
+            "adaptiveStyles":{
+},
+            "objects":[{
+                "id":"1b5e64c63b2d44c38f3f20d6817c7dcd",
+                "label":"",
+                "isContained":true,
+                "type":"richTextPanel",
+                "styleType":"paragraph",
+                "visible":false,
+                "style":{
+                  "location":{
+                    "x":47,
+                    "y":353},
+                  "size":{
+                    "width":200,
+                    "height":30},
+                  "visible":false,
+                  "cornerRadiusTopLeft":"5"},
+                "adaptiveStyles":{
+}}],
+            "interactionMap":{
+              "onClick":{
+                "description":"OnClick",
+                "cases":[{
+                    "description":"Case 1",
+                    "isNewIfGroup":false,
+                    "actions":[{
+                        "action":"fadeWidget",
+                        "description":"Hide sh_copy,<br>sh_twitt,<br>sh_fb,<br>back_1",
+                        "objectsToFades":[{
+                            "objectPath":["6d851e32fda2467a82f0f9db92b7d5f7"],
+                            "fadeInfo":{
+                              "fadeType":"hide",
+                              "options":{
+                                "showType":"none"}}},
+{
+                            "objectPath":["545adefa83f14cdfa491a9b73c6fa135"],
+                            "fadeInfo":{
+                              "fadeType":"hide",
+                              "options":{
+                                "showType":"none"}}},
+{
+                            "objectPath":["850fbb42bec34cd88a47454972360c7e"],
+                            "fadeInfo":{
+                              "fadeType":"hide",
+                              "options":{
+                                "showType":"none"}}},
+{
+                            "objectPath":["c0b53863421e47bc8aa51f905fe4ba71"],
+                            "fadeInfo":{
+                              "fadeType":"hide",
+                              "options":{
+                                "showType":"none"}}}]}]}]}},
+            "tabbable":true,
+            "images":{
+              "normal~":"images/chatjam/sh_fb_u86.png"}},
+{
+            "id":"545adefa83f14cdfa491a9b73c6fa135",
+            "label":"sh_twitt",
+            "type":"buttonShape",
+            "styleType":"buttonShape",
+            "visible":false,
+            "style":{
+              "location":{
+                "x":47,
+                "y":392},
+              "size":{
+                "width":200,
+                "height":30},
+              "visible":false,
+              "cornerRadiusTopLeft":"5"},
+            "adaptiveStyles":{
+},
+            "objects":[{
+                "id":"e78a2ac82b4e42f482dc9b97c35ed9fe",
+                "label":"",
+                "isContained":true,
+                "type":"richTextPanel",
+                "styleType":"paragraph",
+                "visible":false,
+                "style":{
+                  "location":{
+                    "x":47,
+                    "y":392},
+                  "size":{
+                    "width":200,
+                    "height":30},
+                  "visible":false,
+                  "cornerRadiusTopLeft":"5"},
+                "adaptiveStyles":{
+}}],
+            "interactionMap":{
+              "onClick":{
+                "description":"OnClick",
+                "cases":[{
+                    "description":"Case 1",
+                    "isNewIfGroup":false,
+                    "actions":[{
+                        "action":"fadeWidget",
+                        "description":"Hide sh_copy,<br>sh_twitt,<br>sh_fb,<br>back_1",
+                        "objectsToFades":[{
+                            "objectPath":["6d851e32fda2467a82f0f9db92b7d5f7"],
+                            "fadeInfo":{
+                              "fadeType":"hide",
+                              "options":{
+                                "showType":"none"}}},
+{
+                            "objectPath":["545adefa83f14cdfa491a9b73c6fa135"],
+                            "fadeInfo":{
+                              "fadeType":"hide",
+                              "options":{
+                                "showType":"none"}}},
+{
+                            "objectPath":["850fbb42bec34cd88a47454972360c7e"],
+                            "fadeInfo":{
+                              "fadeType":"hide",
+                              "options":{
+                                "showType":"none"}}},
+{
+                            "objectPath":["c0b53863421e47bc8aa51f905fe4ba71"],
+                            "fadeInfo":{
+                              "fadeType":"hide",
+                              "options":{
+                                "showType":"none"}}}]}]}]}},
+            "tabbable":true,
+            "images":{
+              "normal~":"images/chatjam/sh_fb_u86.png"}},
+{
+            "id":"6d851e32fda2467a82f0f9db92b7d5f7",
+            "label":"sh_copy",
+            "type":"buttonShape",
+            "styleType":"buttonShape",
+            "visible":false,
+            "style":{
+              "location":{
+                "x":47,
+                "y":432},
+              "size":{
+                "width":200,
+                "height":30},
+              "visible":false,
+              "cornerRadiusTopLeft":"5"},
+            "adaptiveStyles":{
+},
+            "objects":[{
+                "id":"5ba9c7f276b54444a4573f6db53d134f",
+                "label":"",
+                "isContained":true,
+                "type":"richTextPanel",
+                "styleType":"paragraph",
+                "visible":false,
+                "style":{
+                  "location":{
+                    "x":47,
+                    "y":432},
+                  "size":{
+                    "width":200,
+                    "height":30},
+                  "visible":false,
+                  "cornerRadiusTopLeft":"5"},
+                "adaptiveStyles":{
+}}],
+            "interactionMap":{
+              "onClick":{
+                "description":"OnClick",
+                "cases":[{
+                    "description":"Case 1",
+                    "isNewIfGroup":false,
+                    "actions":[{
+                        "action":"fadeWidget",
+                        "description":"Hide sh_copy,<br>sh_twitt,<br>sh_fb,<br>back_1",
+                        "objectsToFades":[{
+                            "objectPath":["6d851e32fda2467a82f0f9db92b7d5f7"],
+                            "fadeInfo":{
+                              "fadeType":"hide",
+                              "options":{
+                                "showType":"none"}}},
+{
+                            "objectPath":["545adefa83f14cdfa491a9b73c6fa135"],
+                            "fadeInfo":{
+                              "fadeType":"hide",
+                              "options":{
+                                "showType":"none"}}},
+{
+                            "objectPath":["850fbb42bec34cd88a47454972360c7e"],
+                            "fadeInfo":{
+                              "fadeType":"hide",
+                              "options":{
+                                "showType":"none"}}},
+{
+                            "objectPath":["c0b53863421e47bc8aa51f905fe4ba71"],
+                            "fadeInfo":{
+                              "fadeType":"hide",
+                              "options":{
+                                "showType":"none"}}}]}]}]}},
+            "tabbable":true,
+            "images":{
+              "normal~":"images/chatjam/sh_fb_u86.png"}},
+{
+            "id":"fa4345a918214fa5b0bac1a384ff7e8d",
+            "label":"hamburger",
+            "type":"dynamicPanel",
+            "styleType":"dynamicPanel",
+            "visible":false,
+            "style":{
+              "location":{
+                "x":129,
+                "y":242},
+              "size":{
+                "width":10,
+                "height":10},
+              "visible":false},
+            "adaptiveStyles":{
+},
+            "scrollbars":"none",
+            "fitToContent":true,
+            "propagate":false,
+            "diagrams":[{
+                "id":"2645514c65964a24a1fb886d02d877b6",
+                "label":"State1",
+                "type":"Axure:PanelDiagram",
+                "objects":[{
+                    "id":"40a7903911444e659ff026d7bab99b71",
+                    "label":"",
+                    "parentDynamicPanel":"fa4345a918214fa5b0bac1a384ff7e8d",
+                    "panelIndex":0,
+                    "type":"buttonShape",
+                    "styleType":"buttonShape",
+                    "visible":true,
+                    "style":{
+                      "size":{
+                        "width":150,
+                        "height":199}},
+                    "adaptiveStyles":{
+},
+                    "objects":[{
+                        "id":"291bb9b107d24146816893588e70d8c5",
+                        "label":"",
+                        "isContained":true,
+                        "parentDynamicPanel":"fa4345a918214fa5b0bac1a384ff7e8d",
+                        "panelIndex":0,
+                        "type":"richTextPanel",
+                        "styleType":"paragraph",
+                        "visible":true,
+                        "style":{
+                          "size":{
+                            "width":150,
+                            "height":199}},
+                        "adaptiveStyles":{
+}}],
+                    "images":{
+                      "normal~":"images/chatjam/u93.png"}},
+{
+                    "id":"1c66d63d92b94b5e955e086b2360083e",
+                    "label":"",
+                    "parentDynamicPanel":"fa4345a918214fa5b0bac1a384ff7e8d",
+                    "panelIndex":0,
+                    "type":"buttonShape",
+                    "styleType":"buttonShape",
+                    "visible":true,
+                    "style":{
+                      "size":{
+                        "width":150,
+                        "height":24}},
+                    "adaptiveStyles":{
+},
+                    "objects":[{
+                        "id":"c291029e8a8047e581db290f7b4dbc85",
+                        "label":"",
+                        "isContained":true,
+                        "parentDynamicPanel":"fa4345a918214fa5b0bac1a384ff7e8d",
+                        "panelIndex":0,
+                        "type":"richTextPanel",
+                        "styleType":"paragraph",
+                        "visible":true,
+                        "style":{
+                          "size":{
+                            "width":150,
+                            "height":24}},
+                        "adaptiveStyles":{
+}}],
+                    "images":{
+                      "normal~":"images/chatjam/u95.png"}},
+{
+                    "id":"e395a329aeea4822a65cdb7dc67c00a4",
+                    "label":"",
+                    "parentDynamicPanel":"fa4345a918214fa5b0bac1a384ff7e8d",
+                    "panelIndex":0,
+                    "type":"buttonShape",
+                    "styleType":"buttonShape",
+                    "visible":true,
+                    "style":{
+                      "fontSize":"11px",
+                      "horizontalAlignment":"right",
+                      "location":{
+                        "x":1,
+                        "y":24},
+                      "size":{
+                        "width":148,
+                        "height":18},
+                      "borderWidth":"-1",
+                      "linePattern":"none"},
+                    "adaptiveStyles":{
+},
+                    "objects":[{
+                        "id":"4eec6dd0e8be472c940eb068ada64e8e",
+                        "label":"",
+                        "isContained":true,
+                        "parentDynamicPanel":"fa4345a918214fa5b0bac1a384ff7e8d",
+                        "panelIndex":0,
+                        "type":"richTextPanel",
+                        "styleType":"paragraph",
+                        "visible":true,
+                        "style":{
+                          "fontSize":"11px",
+                          "horizontalAlignment":"right",
+                          "location":{
+                            "x":1,
+                            "y":24},
+                          "size":{
+                            "width":148,
+                            "height":18},
+                          "borderWidth":"-1",
+                          "linePattern":"none"},
+                        "adaptiveStyles":{
+}}],
+                    "interactionMap":{
+                      "onClick":{
+                        "description":"OnClick",
+                        "cases":[{
+                            "description":"Case 1",
+                            "isNewIfGroup":false,
+                            "actions":[{
+                                "action":"linkWindow",
+                                "description":"Open Find More Friends in Current Window",
+                                "target":{
+                                  "targetType":"page",
+                                  "url":"find_more_friends.html",
+                                  "includeVariables":true},
+                                "linkType":"current"}]}]}},
+                    "tabbable":true,
+                    "images":{
+                      "normal~":"images/chatjam/u97.png"}},
+{
+                    "id":"8720da49299249698bd6765f75dd9872",
+                    "label":"",
+                    "parentDynamicPanel":"fa4345a918214fa5b0bac1a384ff7e8d",
+                    "panelIndex":0,
+                    "type":"buttonShape",
+                    "styleType":"buttonShape",
+                    "visible":true,
+                    "style":{
+                      "location":{
+                        "x":0,
+                        "y":119},
+                      "size":{
+                        "width":150,
+                        "height":24}},
+                    "adaptiveStyles":{
+},
+                    "objects":[{
+                        "id":"b1f22913c8e1419997ce75f7a319d80f",
+                        "label":"",
+                        "isContained":true,
+                        "parentDynamicPanel":"fa4345a918214fa5b0bac1a384ff7e8d",
+                        "panelIndex":0,
+                        "type":"richTextPanel",
+                        "styleType":"paragraph",
+                        "visible":true,
+                        "style":{
+                          "location":{
+                            "x":0,
+                            "y":119},
+                          "size":{
+                            "width":150,
+                            "height":24}},
+                        "adaptiveStyles":{
+}}],
+                    "images":{
+                      "normal~":"images/chatjam/u95.png"}},
+{
+                    "id":"71a197e112974450ae2cd933862f3934",
+                    "label":"",
+                    "parentDynamicPanel":"fa4345a918214fa5b0bac1a384ff7e8d",
+                    "panelIndex":0,
+                    "type":"buttonShape",
+                    "styleType":"buttonShape",
+                    "visible":true,
+                    "style":{
+                      "fontSize":"11px",
+                      "horizontalAlignment":"right",
+                      "location":{
+                        "x":1,
+                        "y":143},
+                      "size":{
+                        "width":148,
+                        "height":18},
+                      "borderWidth":"-1"},
+                    "adaptiveStyles":{
+},
+                    "objects":[{
+                        "id":"1a63fe76277b4fa5b87862a23c4e25d6",
+                        "label":"",
+                        "isContained":true,
+                        "parentDynamicPanel":"fa4345a918214fa5b0bac1a384ff7e8d",
+                        "panelIndex":0,
+                        "type":"richTextPanel",
+                        "styleType":"paragraph",
+                        "visible":true,
+                        "style":{
+                          "fontSize":"11px",
+                          "horizontalAlignment":"right",
+                          "location":{
+                            "x":1,
+                            "y":143},
+                          "size":{
+                            "width":148,
+                            "height":18},
+                          "borderWidth":"-1"},
+                        "adaptiveStyles":{
+}}],
+                    "interactionMap":{
+                      "onClick":{
+                        "description":"OnClick",
+                        "cases":[{
+                            "description":"Case 1",
+                            "isNewIfGroup":false,
+                            "actions":[{
+                                "action":"linkWindow",
+                                "description":"Open Settings in Current Window",
+                                "target":{
+                                  "targetType":"page",
+                                  "url":"settings.html",
+                                  "includeVariables":true},
+                                "linkType":"current"}]}]}},
+                    "tabbable":true,
+                    "images":{
+                      "normal~":"images/chatjam/u97.png"}},
+{
+                    "id":"6a7663bdfc8c4d4a98ed0dac81698390",
+                    "label":"",
+                    "parentDynamicPanel":"fa4345a918214fa5b0bac1a384ff7e8d",
+                    "panelIndex":0,
+                    "type":"buttonShape",
+                    "styleType":"buttonShape",
+                    "visible":true,
+                    "style":{
+                      "fontSize":"11px",
+                      "horizontalAlignment":"right",
+                      "location":{
+                        "x":1,
+                        "y":160},
+                      "size":{
+                        "width":148,
+                        "height":18},
+                      "borderWidth":"-1"},
+                    "adaptiveStyles":{
+},
+                    "objects":[{
+                        "id":"2cfe39f4989e4c928ba33c92ab75d380",
+                        "label":"",
+                        "isContained":true,
+                        "parentDynamicPanel":"fa4345a918214fa5b0bac1a384ff7e8d",
+                        "panelIndex":0,
+                        "type":"richTextPanel",
+                        "styleType":"paragraph",
+                        "visible":true,
+                        "style":{
+                          "fontSize":"11px",
+                          "horizontalAlignment":"right",
+                          "location":{
+                            "x":1,
+                            "y":160},
+                          "size":{
+                            "width":148,
+                            "height":18},
+                          "borderWidth":"-1"},
+                        "adaptiveStyles":{
+}}],
+                    "interactionMap":{
+                      "onClick":{
+                        "description":"OnClick",
+                        "cases":[{
+                            "description":"Case 1",
+                            "isNewIfGroup":false,
+                            "actions":[{
+                                "action":"fadeWidget",
+                                "description":"Show/Hide Widget",
+                                "objectsToFades":[]},
+{
+                                "action":"linkWindow",
+                                "description":"Open Settings in Current Window",
+                                "target":{
+                                  "targetType":"page",
+                                  "url":"settings.html",
+                                  "includeVariables":true},
+                                "linkType":"current"}]}]}},
+                    "tabbable":true,
+                    "images":{
+                      "normal~":"images/chatjam/u97.png"}},
+{
+                    "id":"422f2ad3fad247c183e7601b27b70ed5",
+                    "label":"",
+                    "parentDynamicPanel":"fa4345a918214fa5b0bac1a384ff7e8d",
+                    "panelIndex":0,
+                    "type":"buttonShape",
+                    "styleType":"buttonShape",
+                    "visible":true,
+                    "style":{
+                      "fontSize":"11px",
+                      "horizontalAlignment":"right",
+                      "location":{
+                        "x":1,
+                        "y":177},
+                      "size":{
+                        "width":148,
+                        "height":18},
+                      "borderWidth":"-1"},
+                    "adaptiveStyles":{
+},
+                    "objects":[{
+                        "id":"2d0227108a38490bbdc6b9759ce93f0d",
+                        "label":"",
+                        "isContained":true,
+                        "parentDynamicPanel":"fa4345a918214fa5b0bac1a384ff7e8d",
+                        "panelIndex":0,
+                        "type":"richTextPanel",
+                        "styleType":"paragraph",
+                        "visible":true,
+                        "style":{
+                          "fontSize":"11px",
+                          "horizontalAlignment":"right",
+                          "location":{
+                            "x":1,
+                            "y":177},
+                          "size":{
+                            "width":148,
+                            "height":18},
+                          "borderWidth":"-1"},
+                        "adaptiveStyles":{
+}}],
+                    "interactionMap":{
+                      "onClick":{
+                        "description":"OnClick",
+                        "cases":[{
+                            "description":"Case 1",
+                            "isNewIfGroup":false,
+                            "actions":[{
+                                "action":"linkWindow",
+                                "description":"Open Settings in Current Window",
+                                "target":{
+                                  "targetType":"page",
+                                  "url":"settings.html",
+                                  "includeVariables":true},
+                                "linkType":"current"}]}]}},
+                    "tabbable":true,
+                    "images":{
+                      "normal~":"images/chatjam/u97.png"}},
+{
+                    "id":"6b8c79987d904ade8a0e6513fce53837",
+                    "label":"",
+                    "parentDynamicPanel":"fa4345a918214fa5b0bac1a384ff7e8d",
+                    "panelIndex":0,
+                    "type":"buttonShape",
+                    "styleType":"buttonShape",
+                    "visible":true,
+                    "style":{
+                      "location":{
+                        "x":0,
+                        "y":42},
+                      "size":{
+                        "width":150,
+                        "height":25}},
+                    "adaptiveStyles":{
+},
+                    "objects":[{
+                        "id":"46d47edf45cd496b99df465990c4f68a",
+                        "label":"",
+                        "isContained":true,
+                        "parentDynamicPanel":"fa4345a918214fa5b0bac1a384ff7e8d",
+                        "panelIndex":0,
+                        "type":"richTextPanel",
+                        "styleType":"paragraph",
+                        "visible":true,
+                        "style":{
+                          "location":{
+                            "x":0,
+                            "y":42},
+                          "size":{
+                            "width":150,
+                            "height":25}},
+                        "adaptiveStyles":{
+}}],
+                    "images":{
+                      "normal~":"images/chatjam/u107.png"}},
+{
+                    "id":"a63bfadcb6054f2cb9739a504b6fa18c",
+                    "label":"",
+                    "parentDynamicPanel":"fa4345a918214fa5b0bac1a384ff7e8d",
+                    "panelIndex":0,
+                    "type":"buttonShape",
+                    "styleType":"buttonShape",
+                    "visible":true,
+                    "style":{
+                      "fontSize":"11px",
+                      "horizontalAlignment":"right",
+                      "location":{
+                        "x":1,
+                        "y":67},
+                      "size":{
+                        "width":148,
+                        "height":18},
+                      "borderWidth":"-1",
+                      "linePattern":"none"},
+                    "adaptiveStyles":{
+},
+                    "objects":[{
+                        "id":"eee08d88a4e04b6796628809d547226d",
+                        "label":"",
+                        "isContained":true,
+                        "parentDynamicPanel":"fa4345a918214fa5b0bac1a384ff7e8d",
+                        "panelIndex":0,
+                        "type":"richTextPanel",
+                        "styleType":"paragraph",
+                        "visible":true,
+                        "style":{
+                          "fontSize":"11px",
+                          "horizontalAlignment":"right",
+                          "location":{
+                            "x":1,
+                            "y":67},
+                          "size":{
+                            "width":148,
+                            "height":18},
+                          "borderWidth":"-1",
+                          "linePattern":"none"},
+                        "adaptiveStyles":{
+}}],
+                    "interactionMap":{
+                      "onClick":{
+                        "description":"OnClick",
+                        "cases":[{
+                            "description":"Case 1",
+                            "isNewIfGroup":false,
+                            "actions":[{
+                                "action":"linkWindow",
+                                "description":"Open PhotoVideo in Current Window",
+                                "target":{
+                                  "targetType":"page",
+                                  "url":"photovideo.html",
+                                  "includeVariables":true},
+                                "linkType":"current"}]}]}},
+                    "tabbable":true,
+                    "images":{
+                      "normal~":"images/chatjam/u97.png"}},
+{
+                    "id":"0c664b354b33434ca845a8ad18688ac1",
+                    "label":"",
+                    "parentDynamicPanel":"fa4345a918214fa5b0bac1a384ff7e8d",
+                    "panelIndex":0,
+                    "type":"buttonShape",
+                    "styleType":"buttonShape",
+                    "visible":true,
+                    "style":{
+                      "fontSize":"11px",
+                      "horizontalAlignment":"right",
+                      "location":{
+                        "x":1,
+                        "y":84},
+                      "size":{
+                        "width":148,
+                        "height":18},
+                      "borderWidth":"-1",
+                      "linePattern":"none"},
+                    "adaptiveStyles":{
+},
+                    "objects":[{
+                        "id":"f968b62eebdf4894a9c955b13bbebf79",
+                        "label":"",
+                        "isContained":true,
+                        "parentDynamicPanel":"fa4345a918214fa5b0bac1a384ff7e8d",
+                        "panelIndex":0,
+                        "type":"richTextPanel",
+                        "styleType":"paragraph",
+                        "visible":true,
+                        "style":{
+                          "fontSize":"11px",
+                          "horizontalAlignment":"right",
+                          "location":{
+                            "x":1,
+                            "y":84},
+                          "size":{
+                            "width":148,
+                            "height":18},
+                          "borderWidth":"-1",
+                          "linePattern":"none"},
+                        "adaptiveStyles":{
+}}],
+                    "images":{
+                      "normal~":"images/chatjam/u97.png"}},
+{
+                    "id":"311efa8b3b10407aaac1efd8f445d39b",
+                    "label":"",
+                    "parentDynamicPanel":"fa4345a918214fa5b0bac1a384ff7e8d",
+                    "panelIndex":0,
+                    "type":"buttonShape",
+                    "styleType":"buttonShape",
+                    "visible":true,
+                    "style":{
+                      "fontSize":"11px",
+                      "horizontalAlignment":"right",
+                      "location":{
+                        "x":1,
+                        "y":101},
+                      "size":{
+                        "width":148,
+                        "height":18},
+                      "borderWidth":"-1",
+                      "linePattern":"none"},
+                    "adaptiveStyles":{
+},
+                    "objects":[{
+                        "id":"497136548e56410cb56a1558664fc39d",
+                        "label":"",
+                        "isContained":true,
+                        "parentDynamicPanel":"fa4345a918214fa5b0bac1a384ff7e8d",
+                        "panelIndex":0,
+                        "type":"richTextPanel",
+                        "styleType":"paragraph",
+                        "visible":true,
+                        "style":{
+                          "fontSize":"11px",
+                          "horizontalAlignment":"right",
+                          "location":{
+                            "x":1,
+                            "y":101},
+                          "size":{
+                            "width":148,
+                            "height":18},
+                          "borderWidth":"-1",
+                          "linePattern":"none"},
+                        "adaptiveStyles":{
+}}],
+                    "images":{
+                      "normal~":"images/chatjam/u97.png"}},
+{
+                    "id":"983cfa8027ca46278d1defed6ca4f565",
+                    "label":"",
+                    "parentDynamicPanel":"fa4345a918214fa5b0bac1a384ff7e8d",
+                    "panelIndex":0,
+                    "type":"buttonShape",
+                    "styleType":"buttonShape",
+                    "visible":true,
+                    "style":{
+                      "location":{
+                        "x":0,
+                        "y":198},
+                      "size":{
+                        "width":150,
+                        "height":24}},
+                    "adaptiveStyles":{
+},
+                    "objects":[{
+                        "id":"2b8faf3c88364adca028a1befb82e193",
+                        "label":"",
+                        "isContained":true,
+                        "parentDynamicPanel":"fa4345a918214fa5b0bac1a384ff7e8d",
+                        "panelIndex":0,
+                        "type":"richTextPanel",
+                        "styleType":"paragraph",
+                        "visible":true,
+                        "style":{
+                          "location":{
+                            "x":0,
+                            "y":198},
+                          "size":{
+                            "width":150,
+                            "height":24}},
+                        "adaptiveStyles":{
+}}],
+                    "images":{
+                      "normal~":"images/chatjam/u95.png"}}],
+                "style":{
+                  "fill":{
+                    "fillType":"solid",
+                    "color":0xFFFFFF},
+                  "image":null,
+                  "imageHorizontalAlignment":"near",
+                  "imageVerticalAlignment":"near",
+                  "imageRepeat":"auto"},
+                "adaptiveStyles":{
+}}]}]}}},
   "objectPaths":{
     "b509cae7fd3e424697661786c54f5dfb":{
       "scriptId":"u0"},
@@ -1261,95 +2742,195 @@
       "scriptId":"u18"},
     "8d29f9c7563f4ab89b137ce24f44d437":{
       "scriptId":"u19"},
-    "008fea5cf81a4641841399ae42632495":{
-      "scriptId":"u20"},
-    "874029fc45144b85baead4f3da07c910":{
-      "scriptId":"u21"},
     "be583b235bf34cda9a93603c4e90a565":{
-      "scriptId":"u22"},
+      "scriptId":"u20"},
     "a0b782c815ce448a89e8ba7daf5dbb81":{
-      "scriptId":"u23"},
+      "scriptId":"u21"},
     "a80738f621e1497a99f26f0f8bd44711":{
-      "scriptId":"u24"},
+      "scriptId":"u22"},
     "1985cd884f574b969883fc5015be420f":{
-      "scriptId":"u25"},
+      "scriptId":"u23"},
     "0a5690f252b5477c95e63e8077bed874":{
-      "scriptId":"u26"},
+      "scriptId":"u24"},
     "8c2c9608a0f7410cb764699d57b1aa03":{
-      "scriptId":"u27"},
+      "scriptId":"u25"},
     "98fcfaa949ff422da1de7ae66d286c11":{
-      "scriptId":"u28"},
+      "scriptId":"u26"},
     "eaa8632e7c7141e68c9f41ae35bd121a":{
-      "scriptId":"u29"},
+      "scriptId":"u27"},
     "e8b21d04d5a144b7830cfaa11e2496e9":{
-      "scriptId":"u30"},
+      "scriptId":"u28"},
     "7d9ed0a5029b456cbaf9d3d53ae0cd34":{
-      "scriptId":"u31"},
+      "scriptId":"u29"},
     "ed4f59db505741c588ec2616fc879a6c":{
-      "scriptId":"u32"},
+      "scriptId":"u30"},
     "3349d9b0c801491dbcfe5620571f7a18":{
-      "scriptId":"u33"},
+      "scriptId":"u31"},
     "3014bed9ba984ce09829f7b8c1e8aaa7":{
-      "scriptId":"u34"},
+      "scriptId":"u32"},
     "d9cf7195dce9490fb06bb094f971c41d":{
-      "scriptId":"u35"},
+      "scriptId":"u33"},
     "0bffc8b64a244da5a2c0e2b2b728cfea":{
-      "scriptId":"u36"},
+      "scriptId":"u34"},
     "7b966b96dc4c447eaed59c5d80a79442":{
-      "scriptId":"u37"},
+      "scriptId":"u35"},
     "d29a7de3b0be4e1a99923461e2de12fb":{
-      "scriptId":"u38"},
+      "scriptId":"u36"},
     "d11d67092707470e81baa2fee9d76df5":{
-      "scriptId":"u39"},
+      "scriptId":"u37"},
     "41ff7ff39c5c4635b962adba06c5c0c0":{
-      "scriptId":"u40"},
+      "scriptId":"u38"},
     "03770c8c20cb48528b98b94f09e31f90":{
-      "scriptId":"u41"},
+      "scriptId":"u39"},
     "7f7ff14a30bd439ca171ca1d54505a5e":{
-      "scriptId":"u42"},
+      "scriptId":"u40"},
     "82d287e6557e4581b36c0a6a5d0c509c":{
-      "scriptId":"u43"},
+      "scriptId":"u41"},
     "4a60c2e6a32146f2a89e061b55ecf730":{
-      "scriptId":"u44"},
+      "scriptId":"u42"},
     "02ac700d180743cdaa88db2b93129aa7":{
-      "scriptId":"u45"},
+      "scriptId":"u43"},
     "34e052353e594f5ab7a5c5ba662b7efb":{
-      "scriptId":"u46"},
+      "scriptId":"u44"},
     "b633ac1fb810475d9af276a9823f18a8":{
-      "scriptId":"u47"},
+      "scriptId":"u45"},
     "47ba17c25e34454798e1a7049b919fe9":{
-      "scriptId":"u48"},
+      "scriptId":"u46"},
     "88f8997d69334776bbf3b69e90c72b85":{
-      "scriptId":"u49"},
+      "scriptId":"u47"},
     "8e3b8cab52df4bbca4c710a59187d97b":{
-      "scriptId":"u50"},
+      "scriptId":"u48"},
     "72b1489441c4497eb88d268ddd29c756":{
-      "scriptId":"u51"},
+      "scriptId":"u49"},
     "12f38551ba074584985fff36ae6a1f87":{
-      "scriptId":"u52"},
+      "scriptId":"u50"},
     "87321a8d7f7e486c84883a790c4963c2":{
-      "scriptId":"u53"},
+      "scriptId":"u51"},
     "a8b49d057ec942b694008f9810755507":{
-      "scriptId":"u54"},
+      "scriptId":"u52"},
     "c2edcccaaf8241e9b6d097cf4702d4c3":{
-      "scriptId":"u55"},
+      "scriptId":"u53"},
     "8f23f81caeaf4ab7a5e91937f73ad6cb":{
-      "scriptId":"u56"},
+      "scriptId":"u54"},
     "b6dc1a41f14e4b1d98c8e7bcc442b2ec":{
-      "scriptId":"u57"},
+      "scriptId":"u55"},
     "f30be698d09d4e90989e1710b3885463":{
-      "scriptId":"u58"},
+      "scriptId":"u56"},
     "791ad51e59bb450aa8c63764f92f1fae":{
-      "scriptId":"u59"},
+      "scriptId":"u57"},
     "c0c28f4c983f46e3ad9ebc9c6c8eba19":{
-      "scriptId":"u60"},
+      "scriptId":"u58"},
     "b8308e3134f241c896ff75b8772ccee6":{
-      "scriptId":"u61"},
+      "scriptId":"u59"},
     "7a0ff0fd8894459ea86c1b563f1d21cd":{
-      "scriptId":"u62"},
+      "scriptId":"u60"},
     "56311bc72f1d41729bf1a44b89a8c8e7":{
-      "scriptId":"u63"},
-    "a0f613dc48bd435d94540970ea591683":{
-      "scriptId":"u64"},
-    "dbc39981b3af4348b38443b82de59596":{
-      "scriptId":"u65"}}});
+      "scriptId":"u61"},
+    "86bd35a1c10649a5bfa68409ec0389a4":{
+      "scriptId":"u62",
+      "d13ae077b4804a22bedc6e5ae62167b3":{
+        "scriptId":"u63"},
+      "c46a18b2a3bb422fb6c8aa354964140d":{
+        "scriptId":"u64"},
+      "60276436ada24bb19c784bdc05f3b4ba":{
+        "scriptId":"u65"},
+      "16784c6df8214c9d94ba05c3c16d5ab7":{
+        "scriptId":"u66"},
+      "337699c9340942bdb2be25851653547e":{
+        "scriptId":"u67"},
+      "e3124db3d4f9401aa8e96da39f2df036":{
+        "scriptId":"u68"},
+      "593c57dabe204a95ac29307cb2550473":{
+        "scriptId":"u69"},
+      "c52d04a8040a46fdab8e427a9fd32efb":{
+        "scriptId":"u70"},
+      "32647aab0efa4293a424fefe36128517":{
+        "scriptId":"u71"},
+      "5ee29d1e92204ad1b872e4ccc50ecbbb":{
+        "scriptId":"u72"},
+      "7fa0dd4296d4416d9c9d220e0b54ff20":{
+        "scriptId":"u73"},
+      "ae66ef8dfca140f8b51e0d02a2012fbb":{
+        "scriptId":"u74"},
+      "675be1e0add140ec85d8eaf7e55e4b51":{
+        "scriptId":"u75"},
+      "12cc168e058441adbf73fedc74bda431":{
+        "scriptId":"u76"},
+      "510576c4d6e843bca7388b65af3c4511":{
+        "scriptId":"u77"},
+      "c2ed7618a24547df84dae9a7e462abaa":{
+        "scriptId":"u78"},
+      "e02c00d6314441d0bac9fa4af1d0fb60":{
+        "scriptId":"u79"},
+      "b58b287e29444320b68f6aa6fa54c2ed":{
+        "scriptId":"u80"},
+      "c26232203c204a97893ca8d35b78df95":{
+        "scriptId":"u81"},
+      "d06fab3b55804a09a7f7ec25ff66085b":{
+        "scriptId":"u82"},
+      "c0b53863421e47bc8aa51f905fe4ba71":{
+        "scriptId":"u83"},
+      "ea1dd650ca6f41ecb971a464beb3efa2":{
+        "scriptId":"u84"},
+      "850fbb42bec34cd88a47454972360c7e":{
+        "scriptId":"u85"},
+      "1b5e64c63b2d44c38f3f20d6817c7dcd":{
+        "scriptId":"u86"},
+      "545adefa83f14cdfa491a9b73c6fa135":{
+        "scriptId":"u87"},
+      "e78a2ac82b4e42f482dc9b97c35ed9fe":{
+        "scriptId":"u88"},
+      "6d851e32fda2467a82f0f9db92b7d5f7":{
+        "scriptId":"u89"},
+      "5ba9c7f276b54444a4573f6db53d134f":{
+        "scriptId":"u90"},
+      "fa4345a918214fa5b0bac1a384ff7e8d":{
+        "scriptId":"u91"},
+      "40a7903911444e659ff026d7bab99b71":{
+        "scriptId":"u92"},
+      "291bb9b107d24146816893588e70d8c5":{
+        "scriptId":"u93"},
+      "1c66d63d92b94b5e955e086b2360083e":{
+        "scriptId":"u94"},
+      "c291029e8a8047e581db290f7b4dbc85":{
+        "scriptId":"u95"},
+      "e395a329aeea4822a65cdb7dc67c00a4":{
+        "scriptId":"u96"},
+      "4eec6dd0e8be472c940eb068ada64e8e":{
+        "scriptId":"u97"},
+      "8720da49299249698bd6765f75dd9872":{
+        "scriptId":"u98"},
+      "b1f22913c8e1419997ce75f7a319d80f":{
+        "scriptId":"u99"},
+      "71a197e112974450ae2cd933862f3934":{
+        "scriptId":"u100"},
+      "1a63fe76277b4fa5b87862a23c4e25d6":{
+        "scriptId":"u101"},
+      "6a7663bdfc8c4d4a98ed0dac81698390":{
+        "scriptId":"u102"},
+      "2cfe39f4989e4c928ba33c92ab75d380":{
+        "scriptId":"u103"},
+      "422f2ad3fad247c183e7601b27b70ed5":{
+        "scriptId":"u104"},
+      "2d0227108a38490bbdc6b9759ce93f0d":{
+        "scriptId":"u105"},
+      "6b8c79987d904ade8a0e6513fce53837":{
+        "scriptId":"u106"},
+      "46d47edf45cd496b99df465990c4f68a":{
+        "scriptId":"u107"},
+      "a63bfadcb6054f2cb9739a504b6fa18c":{
+        "scriptId":"u108"},
+      "eee08d88a4e04b6796628809d547226d":{
+        "scriptId":"u109"},
+      "0c664b354b33434ca845a8ad18688ac1":{
+        "scriptId":"u110"},
+      "f968b62eebdf4894a9c955b13bbebf79":{
+        "scriptId":"u111"},
+      "311efa8b3b10407aaac1efd8f445d39b":{
+        "scriptId":"u112"},
+      "497136548e56410cb56a1558664fc39d":{
+        "scriptId":"u113"},
+      "983cfa8027ca46278d1defed6ca4f565":{
+        "scriptId":"u114"},
+      "2b8faf3c88364adca028a1befb82e193":{
+        "scriptId":"u115"}}}});

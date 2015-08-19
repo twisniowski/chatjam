@@ -315,6 +315,7 @@
 #u25_img.mouseOver {
 }
 #u25.mouseOver {
+  opacity:0.5;
 }
 #u26 {
   position:absolute;
@@ -340,6 +341,7 @@
 #u27_img.mouseOver {
 }
 #u27.mouseOver {
+  opacity:0.5;
 }
 #u28 {
   position:absolute;

@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"login_facebook.html",
-  "generationDate":new Date(1439561682312.65),
+  "generationDate":new Date(1439978132137.1),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -392,21 +392,24 @@
               "opacity":0},
             "stateStyles":{
               "mouseOver":{
+                "opacity":"0.5",
                 "fill":{
                   "fillType":"solid",
-                  "color":0xFFC9C9C9}}},
+                  "color":0xFFCCCCCC}}},
             "fill":{
               "fillType":"solid",
               "color":0xFFFFFF},
             "location":{
-              "x":30,
-              "y":300},
+              "x":29,
+              "y":298},
             "size":{
-              "width":230,
-              "height":30},
+              "width":235,
+              "height":34},
+            "borderWidth":"-1",
             "borderFill":{
               "fillType":"solid",
               "color":0xFFFFFF},
+            "linePattern":"none",
             "cornerRadiusTopLeft":"5"},
           "adaptiveStyles":{
 },
@@ -424,21 +427,24 @@
                   "opacity":0},
                 "stateStyles":{
                   "mouseOver":{
+                    "opacity":"0.5",
                     "fill":{
                       "fillType":"solid",
-                      "color":0xFFC9C9C9}}},
+                      "color":0xFFCCCCCC}}},
                 "fill":{
                   "fillType":"solid",
                   "color":0xFFFFFF},
                 "location":{
-                  "x":30,
-                  "y":300},
+                  "x":29,
+                  "y":298},
                 "size":{
-                  "width":230,
-                  "height":30},
+                  "width":235,
+                  "height":34},
+                "borderWidth":"-1",
                 "borderFill":{
                   "fillType":"solid",
                   "color":0xFFFFFF},
+                "linePattern":"none",
                 "cornerRadiusTopLeft":"5"},
               "adaptiveStyles":{
 }}],

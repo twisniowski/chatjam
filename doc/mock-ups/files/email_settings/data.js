@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"email_settings.html",
-  "generationDate":new Date(1439561684767.79),
+  "generationDate":new Date(1439978133526.18),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -400,39 +400,6 @@
           "images":{
             "normal~":"images/settings/u18.png"}},
 {
-          "id":"471ac47154564e1eba98e1905b2eb3d1",
-          "label":"",
-          "type":"buttonShape",
-          "styleType":"buttonShape",
-          "visible":true,
-          "style":{
-            "location":{
-              "x":13,
-              "y":464},
-            "size":{
-              "width":267,
-              "height":36}},
-          "adaptiveStyles":{
-},
-          "objects":[{
-              "id":"abf3313b65ce4ddebd847d6e4230430e",
-              "label":"",
-              "isContained":true,
-              "type":"richTextPanel",
-              "styleType":"paragraph",
-              "visible":true,
-              "style":{
-                "location":{
-                  "x":13,
-                  "y":464},
-                "size":{
-                  "width":267,
-                  "height":36}},
-              "adaptiveStyles":{
-}}],
-          "images":{
-            "normal~":"images/chatjam/u16.png"}},
-{
           "id":"2c89cced5ffc4b2c862bee150f98c88e",
           "label":"",
           "type":"textBox",
@@ -717,7 +684,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/email_settings/u35.png"}},
+            "normal~":"images/email_settings/u33.png"}},
 {
           "id":"a809a549631248e8ba127699d65b75d1",
           "label":"",
@@ -796,41 +763,37 @@
       "scriptId":"u18"},
     "f7a1b35a2ac04e56aae01ee38d3ab366":{
       "scriptId":"u19"},
-    "471ac47154564e1eba98e1905b2eb3d1":{
-      "scriptId":"u20"},
-    "abf3313b65ce4ddebd847d6e4230430e":{
-      "scriptId":"u21"},
     "2c89cced5ffc4b2c862bee150f98c88e":{
-      "scriptId":"u22"},
+      "scriptId":"u20"},
     "f48f37904f8040dea18c9ff12cdf064b":{
-      "scriptId":"u23"},
+      "scriptId":"u21"},
     "6ffa0f60b1414d3c8569b9113610f6f2":{
-      "scriptId":"u24"},
+      "scriptId":"u22"},
     "636e4c20990d4539b72063f8c870b4c4":{
-      "scriptId":"u25"},
+      "scriptId":"u23"},
     "d3ba5d0762ff46dbbae2ed2c1ca50728":{
-      "scriptId":"u26"},
+      "scriptId":"u24"},
     "b590b93596984a45b164f9c4f7b40cdb":{
-      "scriptId":"u27"},
+      "scriptId":"u25"},
     "be4de9e0b3344b24a51162b7b5a93b34":{
-      "scriptId":"u28"},
+      "scriptId":"u26"},
     "5f9ffe0039534630a8efd0d815350868":{
-      "scriptId":"u29"},
+      "scriptId":"u27"},
     "8e432a16e04247feb7e73278ec6da113":{
-      "scriptId":"u30"},
+      "scriptId":"u28"},
     "29065e7e961a4f80bfdd5865132cfc4c":{
-      "scriptId":"u31"},
+      "scriptId":"u29"},
     "8df19f567b184e51b1c8fb979f61ea0c":{
-      "scriptId":"u32"},
+      "scriptId":"u30"},
     "4fc3553e6101433a979d9e6f157d33ed":{
-      "scriptId":"u33"},
+      "scriptId":"u31"},
     "e0f7bdec1803422ab829e5597d761018":{
-      "scriptId":"u34"},
+      "scriptId":"u32"},
     "252c231dccfd4af799cfe37cb6dfd36b":{
-      "scriptId":"u35"},
+      "scriptId":"u33"},
     "27075846a34541b5876307b315fe5f44":{
-      "scriptId":"u36"},
+      "scriptId":"u34"},
     "a809a549631248e8ba127699d65b75d1":{
-      "scriptId":"u37"},
+      "scriptId":"u35"},
     "bc07165983b5475f8633aaaf10fbecbb":{
-      "scriptId":"u38"}}});
+      "scriptId":"u36"}}});

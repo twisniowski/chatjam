@@ -111,7 +111,11 @@
 {
         "pageName":"PhotoVideo",
         "type":"Wireframe",
-        "url":"photovideo.html"}]},
+        "url":"photovideo.html"},
+{
+        "pageName":"Copy of PhotoVideo",
+        "type":"Wireframe",
+        "url":"copy_of_photovideo.html"}]},
   "globalVariables":{
     "onloadvariable":""},
   "defaultAdaptiveView":{

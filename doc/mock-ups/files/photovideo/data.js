@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"photovideo.html",
-  "generationDate":new Date(1439561695060.38),
+  "generationDate":new Date(1439978137288.4),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -337,7 +337,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/photovideo/u16.png"}},
+            "normal~":"images/profile_picture_settings/u16.png"}},
 {
           "id":"991489875e07416c913284b792bd90b1",
           "label":"",

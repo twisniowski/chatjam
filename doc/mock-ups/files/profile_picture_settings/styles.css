@@ -191,41 +191,64 @@
 }
 #u16 {
   position:absolute;
+  left:12px;
+  top:71px;
+  width:268px;
+  height:429px;
+}
+#u16_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:268px;
+  height:429px;
+}
+#u17 {
+  position:absolute;
+  left:2px;
+  top:206px;
+  width:264px;
+  visibility:hidden;
+  word-wrap:break-word;
+}
+#u18 {
+  position:absolute;
   left:68px;
   top:256px;
   width:157px;
   height:38px;
   font-size:16px;
+  color:#FFFFFF;
 }
-#u16_img {
+#u18_img {
   position:absolute;
   left:0px;
   top:0px;
   width:157px;
   height:38px;
 }
-#u17 {
+#u19 {
   position:absolute;
   left:0px;
   top:0px;
   width:157px;
   white-space:nowrap;
 }
-#u18 {
+#u20 {
   position:absolute;
   left:96px;
   top:430px;
   width:100px;
   height:30px;
 }
-#u18_img {
+#u20_img {
   position:absolute;
   left:0px;
   top:0px;
   width:100px;
   height:30px;
 }
-#u19 {
+#u21 {
   position:absolute;
   left:2px;
   top:7px;

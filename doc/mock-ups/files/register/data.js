@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"register.html",
-  "generationDate":new Date(1439561682104.64),
+  "generationDate":new Date(1439978132073.1),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -591,9 +591,7 @@
                   "style":{
                     "stateStyles":{
                       "mouseOver":{
-                        "fill":{
-                          "fillType":"solid",
-                          "color":0xFFC9C9C9}}},
+                        "opacity":"0.5"}},
                     "location":{
                       "x":158,
                       "y":356},
@@ -615,9 +613,7 @@
                       "style":{
                         "stateStyles":{
                           "mouseOver":{
-                            "fill":{
-                              "fillType":"solid",
-                              "color":0xFFC9C9C9}}},
+                            "opacity":"0.5"}},
                         "location":{
                           "x":158,
                           "y":356},
@@ -679,7 +675,7 @@
                   "tabbable":true,
                   "images":{
                     "normal~":"images/register/ok_u25.png",
-                    "mouseOver~":"images/register/ok_u25_mouseOver.png"}},
+                    "mouseOver~":"images/register/ok_u25.png"}},
 {
                   "id":"1082e93a66d24cec96ecb03699ead43c",
                   "label":"",
@@ -691,9 +687,7 @@
                   "style":{
                     "stateStyles":{
                       "mouseOver":{
-                        "fill":{
-                          "fillType":"solid",
-                          "color":0xFFC9C9C9}}},
+                        "opacity":"0.5"}},
                     "location":{
                       "x":8,
                       "y":356},
@@ -715,9 +709,7 @@
                       "style":{
                         "stateStyles":{
                           "mouseOver":{
-                            "fill":{
-                              "fillType":"solid",
-                              "color":0xFFC9C9C9}}},
+                            "opacity":"0.5"}},
                         "location":{
                           "x":8,
                           "y":356},
@@ -729,7 +721,7 @@
 }}],
                   "images":{
                     "normal~":"images/register/ok_u25.png",
-                    "mouseOver~":"images/register/ok_u25_mouseOver.png"}},
+                    "mouseOver~":"images/register/ok_u25.png"}},
 {
                   "id":"010f04ad5f7c473f809d12bbb282aedc",
                   "label":"emailerror",
@@ -1133,6 +1125,9 @@
                   "styleType":"buttonShape",
                   "visible":true,
                   "style":{
+                    "stateStyles":{
+                      "mouseOver":{
+                        "opacity":"0.5"}},
                     "location":{
                       "x":58,
                       "y":300},
@@ -1152,6 +1147,9 @@
                       "styleType":"paragraph",
                       "visible":true,
                       "style":{
+                        "stateStyles":{
+                          "mouseOver":{
+                            "opacity":"0.5"}},
                         "location":{
                           "x":58,
                           "y":300},
@@ -1177,7 +1175,8 @@
                               "linkType":"current"}]}]}},
                   "tabbable":true,
                   "images":{
-                    "normal~":"images/register/u42.png"}},
+                    "normal~":"images/register/u42.png",
+                    "mouseOver~":"images/register/u42.png"}},
 {
                   "id":"20a1392bbf62479dbd4e7d93eca9da4a",
                   "label":"",
@@ -1490,9 +1489,7 @@
                   "style":{
                     "stateStyles":{
                       "mouseOver":{
-                        "fill":{
-                          "fillType":"solid",
-                          "color":0xFFC9C9C9}}},
+                        "opacity":"0.5"}},
                     "location":{
                       "x":158,
                       "y":356},
@@ -1514,9 +1511,7 @@
                       "style":{
                         "stateStyles":{
                           "mouseOver":{
-                            "fill":{
-                              "fillType":"solid",
-                              "color":0xFFC9C9C9}}},
+                            "opacity":"0.5"}},
                         "location":{
                           "x":158,
                           "y":356},
@@ -1633,7 +1628,7 @@
                   "tabbable":true,
                   "images":{
                     "normal~":"images/register/ok_u25.png",
-                    "mouseOver~":"images/register/ok_u25_mouseOver.png"}},
+                    "mouseOver~":"images/register/ok_u25.png"}},
 {
                   "id":"e892e31a99ea446c91398be9448ddf9a",
                   "label":"",
@@ -1645,9 +1640,7 @@
                   "style":{
                     "stateStyles":{
                       "mouseOver":{
-                        "fill":{
-                          "fillType":"solid",
-                          "color":0xFFC9C9C9}}},
+                        "opacity":"0.5"}},
                     "location":{
                       "x":8,
                       "y":356},
@@ -1669,9 +1662,7 @@
                       "style":{
                         "stateStyles":{
                           "mouseOver":{
-                            "fill":{
-                              "fillType":"solid",
-                              "color":0xFFC9C9C9}}},
+                            "opacity":"0.5"}},
                         "location":{
                           "x":8,
                           "y":356},
@@ -1683,7 +1674,7 @@
 }}],
                   "images":{
                     "normal~":"images/register/ok_u25.png",
-                    "mouseOver~":"images/register/ok_u25_mouseOver.png"}},
+                    "mouseOver~":"images/register/ok_u25.png"}},
 {
                   "id":"d2e7f9972e0844f291cf5f2524ba907b",
                   "label":"emailerror",

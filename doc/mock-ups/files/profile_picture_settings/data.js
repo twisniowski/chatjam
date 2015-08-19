@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"profile_picture_settings.html",
-  "generationDate":new Date(1439561684989.8),
+  "generationDate":new Date(1439978133631.19),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -306,6 +306,39 @@
           "images":{
             "normal~":"images/game___app_button/u14.png"}},
 {
+          "id":"c67e557b995a46c38766c32d1cd4ee8c",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":12,
+              "y":71},
+            "size":{
+              "width":268,
+              "height":429}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"ab1f5e2ba2724da78990cee057c0a83d",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":12,
+                  "y":71},
+                "size":{
+                  "width":268,
+                  "height":429}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/profile_picture_settings/u16.png"}},
+{
           "id":"703384ea03a249339e5bb1763ed5ddc5",
           "label":"",
           "type":"buttonShape",
@@ -313,6 +346,13 @@
           "visible":true,
           "style":{
             "fontSize":"16px",
+            "foreGroundFill":{
+              "fillType":"solid",
+              "color":0xFFFFFFFF,
+              "opacity":1},
+            "fill":{
+              "fillType":"solid",
+              "color":0xFF000000},
             "location":{
               "x":68,
               "y":256},
@@ -330,6 +370,13 @@
               "visible":true,
               "style":{
                 "fontSize":"16px",
+                "foreGroundFill":{
+                  "fillType":"solid",
+                  "color":0xFFFFFFFF,
+                  "opacity":1},
+                "fill":{
+                  "fillType":"solid",
+                  "color":0xFF000000},
                 "location":{
                   "x":68,
                   "y":256},
@@ -339,7 +386,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"resources/images/transparent.gif"}},
+            "normal~":"images/profile_picture_settings/u18.png"}},
 {
           "id":"d9f19a94b6214d51a35f5bdc60e0018d",
           "label":"",
@@ -424,11 +471,15 @@
       "scriptId":"u14"},
     "665ea32e5ea54106b8f93419951bbaa4":{
       "scriptId":"u15"},
-    "703384ea03a249339e5bb1763ed5ddc5":{
+    "c67e557b995a46c38766c32d1cd4ee8c":{
       "scriptId":"u16"},
-    "ed423145382148ec99ca7ee2a96a2db7":{
+    "ab1f5e2ba2724da78990cee057c0a83d":{
       "scriptId":"u17"},
-    "d9f19a94b6214d51a35f5bdc60e0018d":{
+    "703384ea03a249339e5bb1763ed5ddc5":{
       "scriptId":"u18"},
+    "ed423145382148ec99ca7ee2a96a2db7":{
+      "scriptId":"u19"},
+    "d9f19a94b6214d51a35f5bdc60e0018d":{
+      "scriptId":"u20"},
     "323fb88283224d49813b310147a7737b":{
-      "scriptId":"u19"}}});
+      "scriptId":"u21"}}});

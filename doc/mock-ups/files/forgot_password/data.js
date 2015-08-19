@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"forgot_password.html",
-  "generationDate":new Date(1439561682411.65),
+  "generationDate":new Date(1439978132186.11),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -467,9 +467,7 @@
           "style":{
             "stateStyles":{
               "mouseOver":{
-                "fill":{
-                  "fillType":"solid",
-                  "color":0xFFC9C9C9}}},
+                "opacity":"0.5"}},
             "location":{
               "x":172,
               "y":425},
@@ -489,9 +487,7 @@
               "style":{
                 "stateStyles":{
                   "mouseOver":{
-                    "fill":{
-                      "fillType":"solid",
-                      "color":0xFFC9C9C9}}},
+                    "opacity":"0.5"}},
                 "location":{
                   "x":172,
                   "y":425},
@@ -518,7 +514,7 @@
           "tabbable":true,
           "images":{
             "normal~":"images/register/ok_u25.png",
-            "mouseOver~":"images/register/ok_u25_mouseOver.png"}},
+            "mouseOver~":"images/register/ok_u25.png"}},
 {
           "id":"47fe16e69e3a49c484d3f715eaf54627",
           "label":"",
@@ -528,9 +524,7 @@
           "style":{
             "stateStyles":{
               "mouseOver":{
-                "fill":{
-                  "fillType":"solid",
-                  "color":0xFFC9C9C9}}},
+                "opacity":"0.5"}},
             "location":{
               "x":22,
               "y":425},
@@ -550,9 +544,7 @@
               "style":{
                 "stateStyles":{
                   "mouseOver":{
-                    "fill":{
-                      "fillType":"solid",
-                      "color":0xFFC9C9C9}}},
+                    "opacity":"0.5"}},
                 "location":{
                   "x":22,
                   "y":425},
@@ -578,7 +570,7 @@
           "tabbable":true,
           "images":{
             "normal~":"images/register/ok_u25.png",
-            "mouseOver~":"images/register/ok_u25_mouseOver.png"}}]}},
+            "mouseOver~":"images/register/ok_u25.png"}}]}},
   "masters":{
 },
   "objectPaths":{
