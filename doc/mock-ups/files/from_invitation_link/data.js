@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"from_invitation_link.html",
-  "generationDate":new Date(1439978132267.11),
+  "generationDate":new Date(1440078813184.77),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{

@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"chat_stickers.html",
-  "generationDate":new Date(1439978133178.16),
+  "generationDate":new Date(1440078814062.82),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{

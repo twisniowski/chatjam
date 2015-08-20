@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"friends_list.html",
-  "generationDate":new Date(1439978134084.21),
+  "generationDate":new Date(1440078815246.89),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{

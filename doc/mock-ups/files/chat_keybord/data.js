@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"chat_keybord.html",
-  "generationDate":new Date(1439978132929.15),
+  "generationDate":new Date(1440078813805.81),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{

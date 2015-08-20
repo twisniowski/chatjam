@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"profile_picture_settings.html",
-  "generationDate":new Date(1439978133631.19),
+  "generationDate":new Date(1440078814474.84),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{

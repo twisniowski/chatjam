@@ -67,7 +67,11 @@
 {
         "pageName":"More games",
         "type":"Wireframe",
-        "url":"more_games.html"},
+        "url":"more_games.html",
+        "children":[{
+            "pageName":"Default_game_details",
+            "type":"Wireframe",
+            "url":"default_game_details.html"}]},
 {
         "pageName":"Friends List",
         "type":"Wireframe",
@@ -113,9 +117,13 @@
         "type":"Wireframe",
         "url":"photovideo.html"},
 {
-        "pageName":"Copy of PhotoVideo",
+        "pageName":"Registration_aftergame",
         "type":"Wireframe",
-        "url":"copy_of_photovideo.html"}]},
+        "url":"registration_aftergame.html"},
+{
+        "pageName":"Step by step config_panel",
+        "type":"Wireframe",
+        "url":"step_by_step_config_panel.html"}]},
   "globalVariables":{
     "onloadvariable":""},
   "defaultAdaptiveView":{

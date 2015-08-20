@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"email_settings.html",
-  "generationDate":new Date(1439978133526.18),
+  "generationDate":new Date(1440078814361.84),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{

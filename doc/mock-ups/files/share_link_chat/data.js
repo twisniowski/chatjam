@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"share_link_chat.html",
-  "generationDate":new Date(1439978137218.39),
+  "generationDate":new Date(1440078818358.07),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
